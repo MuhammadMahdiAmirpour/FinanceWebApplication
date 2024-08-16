@@ -1,0 +1,6 @@
+*.css linguist-detectable=false
+*.html linguist-detectable=false
+*.htm linguist-detectable=false
+*.ejs linguist-detectable=false
+*.html linguist-language=plaintext
+*.html linguist-vendored=true
